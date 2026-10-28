@@ -87,6 +87,7 @@ Learn more: [What is GEO? A Complete Guide](https://geoscoreai.com/blog/what-is-
 | [AI Robots.txt Generator](https://geoscoreai.com/tools/robots-txt-generator) | Generate an AI-optimized robots.txt file. Configure access for 12+ AI crawlers including ChatGPT, Perplexity, Claude, and Gemini |
 | [AI Crawler Access Checker](https://geoscoreai.com/tools/ai-crawler-checker) | Check which AI search engine crawlers can access your website. Instant robots.txt analysis |
 | [Realpav GEO Check](https://realpav.ru/en/geo-check/) | Free GEO readiness checker with 23 checks: AI crawler access in robots.txt (GPTBot, OAI-SearchBot, PerplexityBot, ClaudeBot), llms.txt presence, Organization / FAQPage schema, question-style headings, content structure. No signup. Backed by an [open audit dataset](https://github.com/realpav/geo-audit-2026) of 26 sites |
+
 ---
 
 ## Guides & Tutorials
